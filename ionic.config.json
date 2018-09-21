@@ -1,0 +1,7 @@
+{
+  "name": "favorite-quotes",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
